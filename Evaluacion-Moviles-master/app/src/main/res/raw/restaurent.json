@@ -1,0 +1,43 @@
+[
+    {
+      "name":"UCSM Shopping",
+      "address":"Urb. Verde",
+      "delivery_charge": 5,
+      "image":"https://1000marcas.net/wp-content/uploads/2020/01/Pizza-Hut-logo.png",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Arroz Tacuari",
+          "price": 175,
+          "url": "https://katyadistribuciones.com/wp-content/uploads/2022/01/Tacuari-Rico.jpg"
+        },
+        {
+          "name": "Azúcar Cartavio",
+          "price": 182,
+          "url": "https://katyadistribuciones.com/wp-content/uploads/2022/01/Azucar-Rubia-Cartavio_Mesa-de-trabajo-1.jpg"
+        },
+        {
+          "name": "Manteca Manpan Sierra",
+          "price": 95,
+          "url": "https://katyadistribuciones.com/wp-content/uploads/2022/01/Manpan-Sierra.jpg"
+        },
+        {
+          "name": "Aceite Cil Balde",
+          "price": 195,
+          "url": "https://katyadistribuciones.com/wp-content/uploads/2022/01/Cil-Balde_Mesa-de-trabajo-1.jpg"
+        }
+
+
+      ]
+
+  }
+]
